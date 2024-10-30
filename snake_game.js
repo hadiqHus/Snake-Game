@@ -1,4 +1,3 @@
-// SnakeGame class to encapsulate all game logic
 class SnakeGame {
     constructor(canvas, tileSize) {
         this.canvas = canvas;
