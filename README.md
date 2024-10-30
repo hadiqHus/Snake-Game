@@ -25,3 +25,8 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Snake-Game.git
+
+## Future Enhancements
+Add levels with increasing difficulty.
+Implement sound effects and animations.
+Add a high-score leaderboard.
