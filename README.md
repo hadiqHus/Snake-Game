@@ -7,12 +7,6 @@
 - **Game Over Screen**: When the snake collides with a wall or itself, a game-over overlay appears with a "Play Again" button.
 - **Clean Design**: A gradient background, subtle animations, and styled elements for a polished look.
 
-## Demo
-
-Check out the live version on GitHub Pages: [Play Snake Game](https://yourusername.github.io/Snake-Game/)
-
-![Screenshot of the Snake Game](https://via.placeholder.com/400) <!-- Replace with an actual screenshot link if available -->
-
 ## Technologies Used
 
 - **HTML**: Structure of the game and canvas element.
